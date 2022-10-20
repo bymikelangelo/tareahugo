@@ -1,0 +1,9 @@
+{
+    "name": "Mikelangelo",
+    "image" : "img/fotoperfil.jpg",
+    "bio": "Creador de esta website",
+    "social": {
+        "linkedin": "https://www.linkedin.com/in/miguel-angel-lopez-ruiz/",
+        "github": "https://github.com/bymikelangelo"
+    }
+}

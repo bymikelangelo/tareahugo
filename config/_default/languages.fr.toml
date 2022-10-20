@@ -1,25 +1,24 @@
-languageCode = "es"
-languageName = "Español"
-displayName = "ES"
-isoCode = "es"
-weight = 1
+languageCode = "fr"
+languageName = "Français"
+displayName = "FR"
+isoCode = "fr"
+weight = 3
 rtl = false
-contentDir = 'content/es'
+contentDir = 'content/fr'
 
-title = "TareaHugo"
+title = "Blowfish"
 # logo = "img/logo.png"
-description = "Mikelangelo"
+description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Mikelangelo"
+  name = "Your name here"
   image = "img/fotoperfil.jpg"
-  headline = "Estudiante en CPIFP Los Enlaces"
+  headline = "I'm only human"
   bio = "A little bit about you"
   links = [
     { github = "https://github.com/username" },
     { linkedin = "https://linkedin.com/in/username" },
   ]
-

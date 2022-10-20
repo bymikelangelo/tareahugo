@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Sobre mí"
-  pageRef = "sobre-mi"
+  name = "Blog"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Categorias"
+  name = "Categories"
   pageRef = "categories"
   weight = 20
 
@@ -37,6 +37,6 @@
    weight = 10
 
  [[footer]]
-   name = "Categorias"
+   name = "Categories"
    pageRef = "categories"
    weight = 20
