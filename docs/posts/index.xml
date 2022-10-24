@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TareaHugo</title>
+    <link>https://your_domain.com/posts/</link>
+    <description>Recent content in Posts on TareaHugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Oct 2022 13:58:54 +0200</lastBuildDate><atom:link href="https://your_domain.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como funciona la comunicación entre Cliente y Servidor</title>
+      <link>https://your_domain.com/posts/client-server/</link>
+      <pubDate>Mon, 24 Oct 2022 13:58:54 +0200</pubDate>
+      
+      <guid>https://your_domain.com/posts/client-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herramientas para el desarrollo Web</title>
+      <link>https://your_domain.com/posts/web-tools/</link>
+      <pubDate>Mon, 24 Oct 2022 13:54:15 +0200</pubDate>
+      
+      <guid>https://your_domain.com/posts/web-tools/</guid>
+      <description>Babel WebPack Prototype Polyfill PHP Frameworks de php DJango JSP Css Bootstrap Vue React Angular JavaScript TypeScript JQuery Gatsby Hugo Jekyll Pelican Scraping heroku Vuespress </description>
+    </item>
+    
+  </channel>
+</rss>

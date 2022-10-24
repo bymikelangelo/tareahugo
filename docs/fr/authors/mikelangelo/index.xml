@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mikelangelo on TareaHugo</title>
+    <link>https://your_domain.com/fr/authors/mikelangelo/</link>
+    <description>Recent content in mikelangelo on TareaHugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 21 Oct 2022 18:01:42 +0200</lastBuildDate><atom:link href="https://your_domain.com/fr/authors/mikelangelo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Install</title>
+      <link>https://your_domain.com/fr/about-hugo/linux-install/</link>
+      <pubDate>Fri, 21 Oct 2022 18:01:42 +0200</pubDate>
+      
+      <guid>https://your_domain.com/fr/about-hugo/linux-install/</guid>
+      <description>This tutorial is based on the official one you can find here . Snap Package # In any of the Linux distributions that support snaps, you may install the “extended” Sass/SCSS version with this command:</description>
+    </item>
+    
+    <item>
+      <title>Windows Install</title>
+      <link>https://your_domain.com/fr/about-hugo/windows-install/</link>
+      <pubDate>Fri, 21 Oct 2022 18:01:14 +0200</pubDate>
+      
+      <guid>https://your_domain.com/fr/about-hugo/windows-install/</guid>
+      <description>This tutorial is based on the official one you can find here . Walkthrough # The following aims to be a complete guide to installing Hugo on your Windows PC.</description>
+    </item>
+    
+    <item>
+      <title>Sur moi</title>
+      <link>https://your_domain.com/fr/about-me/</link>
+      <pubDate>Wed, 19 Oct 2022 21:09:26 +0200</pubDate>
+      
+      <guid>https://your_domain.com/fr/about-me/</guid>
+      <description>Je m&amp;rsquo;appelle Miguel Ángel, bien que sur Internet je me fasse connaître sous le nom de Mikelangelo. Je suis étudiant en développement d&amp;rsquo;applications Web et, comme prévu, le l&amp;rsquo;informatique et la technologie sont deux de mes passions.</description>
+    </item>
+    
+  </channel>
+</rss>
