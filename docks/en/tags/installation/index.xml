@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>installation on TareaHugo</title>
+    <link>https://your_domain.com/en/tags/installation/</link>
+    <description>Recent content in installation on TareaHugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Oct 2022 18:01:42 +0200</lastBuildDate><atom:link href="https://your_domain.com/en/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Install</title>
+      <link>https://your_domain.com/en/about-hugo/linux-install/</link>
+      <pubDate>Fri, 21 Oct 2022 18:01:42 +0200</pubDate>
+      
+      <guid>https://your_domain.com/en/about-hugo/linux-install/</guid>
+      <description>This tutorial is based on the official one you can find here . Snap Package # In any of the Linux distributions that support snaps, you may install the “extended” Sass/SCSS version with this command:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TareaHugo</title>
+    <link>https://your_domain.com/fr/tags/</link>
+    <description>Recent content in Tags on TareaHugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 21 Oct 2022 18:01:42 +0200</lastBuildDate><atom:link href="https://your_domain.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>installation</title>
+      <link>https://your_domain.com/fr/tags/installation/</link>
+      <pubDate>Fri, 21 Oct 2022 18:01:42 +0200</pubDate>
+      
+      <guid>https://your_domain.com/fr/tags/installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://your_domain.com/fr/tags/linux/</link>
+      <pubDate>Fri, 21 Oct 2022 18:01:42 +0200</pubDate>
+      
+      <guid>https://your_domain.com/fr/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instalation</title>
+      <link>https://your_domain.com/fr/tags/instalation/</link>
+      <pubDate>Fri, 21 Oct 2022 18:01:14 +0200</pubDate>
+      
+      <guid>https://your_domain.com/fr/tags/instalation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://your_domain.com/fr/tags/windows/</link>
+      <pubDate>Fri, 21 Oct 2022 18:01:14 +0200</pubDate>
+      
+      <guid>https://your_domain.com/fr/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@ weight = 3
 rtl = false
 contentDir = 'content/fr'
 
-title = "Blowfish"
+title = "TareaHugo"
 # logo = "img/logo.png"
 description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -14,9 +14,9 @@ description = "My awesome website"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Your name here"
+  name = "Mikelangelo"
   image = "img/fotoperfil.jpg"
-  headline = "I'm only human"
+  headline = "Étudiant à CPIFP Los Enlaces"
   bio = "A little bit about you"
   links = [
     { github = "https://github.com/username" },

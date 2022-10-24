@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/about-hugo/</loc>
+            <lastmod>2022-10-21T18:01:42+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/about-hugo/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/about-hugo/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/about-hugo/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/authors/</loc>
+            <lastmod>2022-10-21T18:01:42+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/authors/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/authors/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/authors/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/tags/installation/</loc>
+            <lastmod>2022-10-21T18:01:42+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/tags/installation/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/tags/installation/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/tags/installation/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/tags/linux/</loc>
+            <lastmod>2022-10-21T18:01:42+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/tags/linux/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/tags/linux/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/tags/linux/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/about-hugo/linux-install/</loc>
+            <lastmod>2022-10-21T18:01:42+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/about-hugo/linux-install/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/about-hugo/linux-install/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/about-hugo/linux-install/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/authors/mikelangelo/</loc>
+            <lastmod>2022-10-21T18:01:42+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/authors/mikelangelo/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/authors/mikelangelo/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/authors/mikelangelo/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/tags/</loc>
+            <lastmod>2022-10-21T18:01:42+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/tags/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/tags/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/tags/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/</loc>
+            <lastmod>2022-10-21T18:01:42+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/tags/instalation/</loc>
+            <lastmod>2022-10-21T18:01:14+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/tags/instalation/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/tags/instalation/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/tags/instalation/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/tags/windows/</loc>
+            <lastmod>2022-10-21T18:01:14+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/tags/windows/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/tags/windows/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/tags/windows/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/about-hugo/windows-install/</loc>
+            <lastmod>2022-10-21T18:01:14+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/about-hugo/windows-install/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/about-hugo/windows-install/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/about-hugo/windows-install/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/about-me/</loc>
+            <lastmod>2022-10-19T21:09:26+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/about-me/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/about-me/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/about-me/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://your_domain.com/fr/categories/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://your_domain.com/categories/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://your_domain.com/en/categories/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://your_domain.com/fr/categories/"
+              />
+          </url>
+    
+  
+</urlset>
