@@ -7,7 +7,7 @@ authors:
     - "mikelangelo"
 slug: "web-tools"
 description: "Listado de herramientas muy útiles para el desarrollo web."
-#tags: ["", ""]
+tags: ["webtools", "framework"]
 ---
 
 ![Web-Logos](https://www.juanoa.com/static/9e933047f39e833315e48cddcc12bb2e/tecnologias-javascript.png.png)

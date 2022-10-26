@@ -1,11 +1,10 @@
 ---
 title: "About Hugo"
 #description: ""
-
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
+showDate: false
+showAuthor: false
+authors:  
+    - "mikelangelo"
 ---
 
 ## ¿Qué es Hugo?
@@ -37,9 +36,9 @@ Para aquell@s que quieren crear un blog, un sitio de empresa, un portfolio perso
 Echa un vistazo abajo para ver los procesos de instalación de Hugo en Windows e Linux
 {{< /lead >}}
 
-{{< article link="/about-hugo/linux-install/" >}}
+{{< article link="/posts/hugo-linux-install/" >}}
 
-{{< article link="/about-hugo/windows-install/" >}}
+{{< article link="/posts/hugo-windows-install/" >}}
 
 
 

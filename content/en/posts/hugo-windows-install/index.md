@@ -1,11 +1,11 @@
 ---
-title: "Windows Install"
+title: "Install Hugo on Windows"
 date: 2022-10-21T18:01:14+02:00
 draft: false
 showAuthor: false
 authors: 
     - "mikelangelo"
-slug: "windows-install"
+slug: "hugo-windows-install"
 description: "How to install Hugo in Windows."
 tags: ["instalation", "windows"]
 ---

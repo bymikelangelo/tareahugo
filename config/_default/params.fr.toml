@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts"]
 # robots = ""
 
 [footer]
@@ -26,8 +26,8 @@ enableCodeCopy = true
   homepageImage = "../afternoon.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showMoreLink = true
+  showMoreLinkDest = "/fr/posts"
 
 [article]
   showDate = true

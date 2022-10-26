@@ -1,11 +1,10 @@
 ---
 title: "About Hugo"
 #description: ""
-
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
+showDate: false
+showAuthor: false
+authors:  
+    - "mikelangelo"
 ---
 
 ## What is Hugo?
@@ -37,7 +36,7 @@ Hugo is for people building a blog, a company site, a portfolio site, documentat
 See bellow to check how to install Hugo in diferent O.S.
 {{< /lead >}}
 
-{{< article link="/fr/about-hugo/linux-install/" >}}
+{{< article link="/en/posts/hugo-linux-install/" >}}
 
-{{< article link="/fr/about-hugo/windows-install/" >}}
+{{< article link="/en/posts/hugo-windows-install/" >}}
 

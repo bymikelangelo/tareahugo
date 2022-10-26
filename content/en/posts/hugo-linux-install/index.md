@@ -1,11 +1,11 @@
 ---
-title: "Linux Install"
+title: "Install Hugo on Linux"
 date: 2022-10-21T18:01:42+02:00
 draft: false
 showAuthor: false
 authors: 
     - "mikelangelo"
-slug: "linux-install"
+slug: "hugo-linux-install"
 description: "How to install Hugo in Linux."
 tags: ["installation", "linux"]
 ---

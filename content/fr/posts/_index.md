@@ -8,4 +8,6 @@ cascade:
   invertPagination: true
 ---
 
-{{< lead >}} Aquí puedes ver un listado de posts disponibles ordenados por fecha. Disfruta de la lectura :) {{< /lead >}}
+{{< lead >}} 
+Vous pouvez voir ici certains de mes messages triés par date. Bonne lecture :)
+{{< /lead >}}
