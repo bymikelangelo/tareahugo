@@ -38,11 +38,11 @@ Finalmente, podras acceder a la visualización de este proyecto en tu navegador.
 
 ## Aspectos a resolver o mejorar
 
-*Esta misma página web se ha intentado desplegar en el sitio **GitHub Pages** sin obtener un resultado favorable. Para ello se ha seguido la [documentación
-oficial](https://nunocoracao.github.io/blowfish/docs/hosting-deployment/#github-pages) presente en la página de Blowfish. Para ello, se creó el archivo de
-configuración .yaml y la action GitHub pero esta obtenia un error como resultado de su ejecución.
+* Esta misma página web se ha intentado desplegar en el sitio **GitHub Pages** sin obtener un resultado favorable. Para ello se ha seguido 
+la [documentación oficial](https://nunocoracao.github.io/blowfish/docs/hosting-deployment/#github-pages) presente en la página de Blowfish. 
+Para ello, se creó el archivo de configuración .yaml y la action GitHub pero esta obtenia un error como resultado de su ejecución.
 
-*Queda pendiente de implementar una imagen de cabecera por cada artículo creado, como se muestra en la página oficial de Blowfish.
+* Queda pendiente de implementar una imagen de cabecera por cada artículo creado, como se muestra en la página oficial de Blowfish.
 
 
 
